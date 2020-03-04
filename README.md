@@ -10,4 +10,7 @@ I just realized that github is not that friendly to jupyter notebook plots. Plea
 ### Sample plots:
 ![]("https://github.com/suestring7/NCoronavirusMapbyCounty/raw/master/sample0.jpg")
 ![]("https://github.com/suestring7/NCoronavirusMapbyCounty/raw/master/sample1.jpg")
+![](./sample0.jpg)
+![](./sample1.jpg)
+
 
