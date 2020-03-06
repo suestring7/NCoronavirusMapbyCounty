@@ -6,6 +6,7 @@ Thanks to [一亩三分地](https://coronavirus.1point3acres.com/) for their gre
 
 ## Visualization
 I just realized that github is not that friendly to jupyter notebook plots. Please use the [nbviewer link](https://nbviewer.jupyter.org/github/suestring7/NCoronavirusMapbyCounty/blob/master/Coronavirus%20County%20Map%20for%20US.ipynb) to view the notebook.
+**Updated:[](http://localhost:4000/2020/03/04/us-cases-count/)**
 
 ### Sample plots:
 ![]("https://github.com/suestring7/NCoronavirusMapbyCounty/raw/master/sample0.jpg")
